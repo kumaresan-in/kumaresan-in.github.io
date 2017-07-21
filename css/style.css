@@ -457,11 +457,6 @@ footer{width:100%;height:auto;color:#fff;margin-top:-18px;margin-bottom:9px;}
 .single-page a{color:#fff;}
 hr{border-top:1px solid #fff;}
 .single-footer{margin:0;}
-<<<<<<< HEAD
-
-//Toggle Icon
 
 #home #menuToggle{height:0px !important;width:0px !important;}
-=======
-#home #menuToggle{height:0px;width:0px;}
->>>>>>> 9a9c8478df703d3841c5cc143fba7a6d0f6c85aa
+
